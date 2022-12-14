@@ -3,6 +3,7 @@
 Data augmentation is a strategy that significantly increases the diversity of data available for 
 training deep learning models, without collecting new data. Several images are created of same 
 image by various transformations such as flipping, rotating, sharpening, cropping, etc.
+<br>
 Installation and Setup
 ```
 !pip install opencv-python
@@ -16,6 +17,7 @@ import cv2
 ## 2- Image Preparation and Augmentation for Deep Learning with Keras
 Keras is an open-source high-level Neural Network library, written in Python and running on 
 top of the machine learning platform.
+<br>
 Installation and Setup
 Being the fact that Keras runs on the top of Tensorflow, we need to install TensorFlow first.
 ```
